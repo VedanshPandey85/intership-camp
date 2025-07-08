@@ -120,6 +120,11 @@ console.log(person);
 
 
 //string methods
+
+let example = "hello world";
+example.toUpperCase();
+
+
 //toUpperCase()
 //toLowerCase()
 //trim()
