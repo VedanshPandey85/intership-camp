@@ -1,0 +1,29 @@
+if else practice
+--write a program to check if a number is divisible by 3 and 5 or not.
+--write a program to check if a number is divisible by 3 or 5 or not.
+--write a program to check if a number is divisible by 3 or 5 or 7 or not.
+--write a program to check if a number is even or odd.
+--write a program to check if a number is positive or negative.
+--write a program to check if a number is a multiple of 3 and 5.
+--write a program to check if a number is a multiple of 3 and 5 and 7.
+--write a program to check if a number is a multiple of 3 and 5 and 7 and 9.
+--write a program to check if a number is a multiple of 3 and 5 and 7 and 9 and 11.
+--write a program to check if a number is a multiple of 3 and 5 and 7 and 9 and 11 and 13.
+
+
+
+
+
+
+
+
+loops practice
+-- print number form 1 to 10
+-- print even number from 1 to 10 
+-- print odd number from 1 to 10
+-- print sum of 1 to 10
+-- print multiplication of 1 to 10
+--prime number  from 1 to 100;
+
+
+

@@ -17,11 +17,24 @@ for(let i = 0 ; i<5;i++){
 
 
 //while loops
-let k = 0;
+let k = 0; // initailizer 
 while(k<5){
     console.log(k);
     k++;
 }
+
+
+// k = 0 
+// 0<5  0
+// 1<5  1
+// 2< 5 2
+// 3<5  3
+// 4<5 4
+// 5 < 5 
+
+
+
+// i = 0 ---> 0 1 2 3 4   
 
 //do while loops
 let l = 0;
@@ -30,6 +43,8 @@ do{
     l++;
 }while(l<5);
 
+
+//key : value
 //for in loop
 let object1 = {
     name : "vedansh",
@@ -37,10 +52,14 @@ let object1 = {
     city : "delhi"
 }
 
+// 0 1 2
+//for in loop
 for(let key in object1){
     console.log(key);
 }
 
+
+//[]--> array 
 //for of loop
 let object2 = [
     {
@@ -52,8 +71,32 @@ let object2 = [
         name : "aniket",
         age : 22,
         city : "new mumbai"
+    },
+    {
+        name : "nancy",
+        age : 22,
+        city : "new mumbai"
+    },
+    {
+        name : "dhvani",
+        age : 22,
+        city : "new mumbai"
+    },
+    {
+        name : "lipsa",
+        age : 22,
+        city : "new mumbai"
+    },
+    {
+        name : "lipsa",
+        age : 22,
+        city : "new mumbai"
     }
 ]
+
+console.log(object2[4]);
+
+
 
 for(let key of object2){
     console.log(key);
