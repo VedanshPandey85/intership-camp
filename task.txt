@@ -11,6 +11,12 @@ if else practice
 --write a program to check if a number is a multiple of 3 and 5 and 7 and 9 and 11 and 13.
 
 
+//make a calculator using html and javascript
+// write a program for finding prime numbers till n take input from input box html; 
+
+
+
+
 
 
 
@@ -24,6 +30,15 @@ loops practice
 -- print sum of 1 to 10
 -- print multiplication of 1 to 10
 --prime number  from 1 to 100;
+
+
+//functions
+//write a function for printing your name
+//write a function for addition of two number;
+//write a function for subtraction of two num
+
+
+
 
 
 
